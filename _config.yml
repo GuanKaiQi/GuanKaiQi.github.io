@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "GuanKaiQi(官恺祺)"
+title                    : "GuanKaiQi"
 title_separator          : "-"
-name                     : &name "GuanKaiQi(官恺祺)"
+name                     : &name "GuanKaiQi"
 description              : &description "personal description"
 url                      : https://GuanKaiQi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "GuanKaiQi/GuanKaiQi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "GuanKaiQi(官恺祺)"
+  name             : "GuanKaiQi"
   pronouns         : # example: "she/her"  
   bio              : "A lazy Jerry"
   location         : "Earth"
